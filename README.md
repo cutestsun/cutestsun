@@ -1,8 +1,18 @@
-<h2 align="left">Hi 👋! My name is Illia, and I'm a Full-Stack developer, from Ukraine.</h2>
+<h2 align="left">Hi 👋! My name is Illia, and I'm a Full-Stack developer from Ukraine.</h2>
 
 ###
 
-<img align="right" height="150" src="https://miro.medium.com/v2/1*E_4l9LlQblmBk6HCBJB2Sg.gif"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cutestsun&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=cutestsun&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cutestsun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="150" src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"  />
 
 ###
 
@@ -45,5 +55,11 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/cutestsun/cutestsun/output/snake.svg" alt="Snake animation" />
 
 ###
