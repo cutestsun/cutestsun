@@ -1,7 +1,3 @@
-<style>
-  a {
-    text-decoration: none
-</style>
 <h2 align="left">Hi 👋! My name is Illia, and I'm a Full-Stack developer from Ukraine.</h2>
 
 ###
